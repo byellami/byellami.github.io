@@ -7,9 +7,6 @@
     <section class="page-content">
         <div class="content" rel="main">
             <h1>Welcome home</h1>
-
-
-
         </div>
     </section>
     <section class="social">
